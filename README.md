@@ -1,7 +1,7 @@
 # Demine
 A Unity3d game
 
-The zip is split into 25M parts; download all, unarchive, play.
+The zip is split into 25M parts; download all, unarchive, 'play'.
 
 This was a collaborative project at Dalhousie.
 
